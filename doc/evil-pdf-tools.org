@@ -1,0 +1,20 @@
+#+TITLE: evil-pdf-tools
+#+SUBTITLE: __TODO__
+#+AUTHOR: Chrstopher Lloyd
+#+TEXINFO_FILENAME: evil-pdf-tools.info
+#+TEXINFO_HEADER: The evil-pdf-tools manual
+#+TEXINFO_DIR_CATEGORY: Emacs
+#+TEXINFO_DIR_TITLE: evil-pdf-tools
+#+TEXINFO_DIR_DESC: __TODO__
+
+* README                                                           :noexport:
+This file is used to generate the info manual for evil-pdf-tools. It will be
+automatically built by the `doc` task in the makefile. This requires org-mode
+8.0 or later for the texinfo exporter.
+
+* Overview
+* Installation
+* Usage
+* Extending
+* GNU Free Documentation License
+@@info:@include fdl-1.3.texi@@
