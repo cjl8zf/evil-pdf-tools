@@ -1,15 +1,8 @@
 (source melpa)
 
+(package "evil-pdf-tools" "0.0.1" "Evil key bindings for pdf-tools.")
+
 (package-file "evil-pdf-tools.el")
 
-(development
- (depends-on "ert")
- (depends-on "flycheck")
- (depends-on "flycheck-cask")
- (depends-on "f")
- (depends-on "ecukes")
- (depends-on "ert-runner")
- (depends-on "el-mock")
- (depends-on "cask-package-toolset")
- (depends-on "undercover")
- (depends-on "package-lint"))
+(depends-on "evil")
+(depends-on "pdf-tools")
